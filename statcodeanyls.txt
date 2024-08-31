@@ -1,0 +1,19 @@
+STATIC CODE ANALYSIS
+
+Static analysis is used in software engineering by software development and quality assurance teams. Automated tools can assist programmers and developers in carrying out static analysis. The software will scan all code in a project to check for vulnerabilities while validating the code .Static analysis is used in software engineering by software development and quality assurance teams. Automated tools can assist programmers and developers in carrying out static analysis. The software will scan all code in a project to check for vulnerabilities while validating the code.
+
+List of tools for static code analysis:
+1 Ada.
+2 C, C++
+3 C#
+4 IEC 61131-3.
+5 Java.
+6 JavaScript.
+7 Objective-C, Objective-C++
+8 Opa.
+
+Some of the most popular code analysis tools include (Sonaqube,Resharper,Codeclimate,CAST Highlight and codac)
+
+Sonarcube:
+
+SonarQube is an on-premise analysis tool designed to detect coding issues in 30+ languages, frameworks, and IaC platforms
